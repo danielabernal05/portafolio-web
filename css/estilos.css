@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin-top: 0px;
+}
+.container{
+    font-family: 'Libre Caslon Display', serif;   
+     font-size: 38px;
+    color: black;
+    padding: 50px;
+}
+.containerbb{
+    font-family: 'Libre Caslon Display', serif;
+    padding: 40px;
+}
+h1{
+    font-family: 'Libre Caslon Display', serif;
+    color: black;
+    font-size: 3s0px;
+    padding-top: 20px;
+}
+.containerss{
+    width: 50%;
+    height: 50%;
+}
+<!--informacion-->
+
+.containerdd{
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.table{
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+.con{
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 30px;
+    margin-right: 40px;
+    margin-left: 40px; 
+}
+h1{
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+<!--informacion-->
+
+.ej{
+    float: left;
+    margin-top: 40px;
+}   
+#carouselExampleControls img{
+    margin: auto;
+    margin-top: 14px;
+}    
